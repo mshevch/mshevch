@@ -1,4 +1,4 @@
-####Hello I am Mariia
+###Hello I am Mariia
 
 👩🏻‍💻 Embedded Software Engineer working on robotics   
 👩🏻‍🎓 Studied Computer Engineering at Oklahoma State University   
@@ -16,5 +16,6 @@ Linux and UNIX
 Raspberry Pi
 Microcontrollers
 VSCode
+
 
 
