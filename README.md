@@ -1,4 +1,4 @@
-###Hello I am Mariia
+##Hello I am Mariia
 
 👩🏻‍💻 Embedded Software Engineer working on robotics   
 👩🏻‍🎓 Studied Computer Engineering at Oklahoma State University   
@@ -6,7 +6,7 @@
 
 [![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshevch)](https://github.com/shevch/github-readme-stats)
 
-###Tech StacK
+##Tech StacK
 C/C++ Language
 Python
 HTML/CSS
@@ -16,6 +16,7 @@ Linux and UNIX
 Raspberry Pi
 Microcontrollers
 VSCode
+
 
 
 
