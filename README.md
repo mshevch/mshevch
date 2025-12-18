@@ -7,15 +7,16 @@
 [![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshevch)](https://github.com/shevch/github-readme-stats)
 
 #### Tech StacK
-C/C++ Language
-Python
-HTML/CSS
-System Verilog
-Assembly
-Linux and UNIX
-Raspberry Pi
-Microcontrollers
-VSCode
+C/C++ Language  
+Python  
+HTML/CSS  
+System Verilog  
+Assembly  
+Linux and UNIX  
+Raspberry Pi  
+Microcontrollers  
+VSCode  
+
 
 
 
