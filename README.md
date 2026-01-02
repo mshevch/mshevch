@@ -4,8 +4,6 @@
 👩🏻‍🎓 Studied Computer Engineering at Oklahoma State University   
 💭 Currently learning how control robots using Internet of Things
 
-[![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshevch)](https://github.com/shevch/github-readme-stats)
-
 #### Tech StacK
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +22,7 @@
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 
 
