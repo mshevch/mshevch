@@ -1,7 +1,7 @@
 #### Hello I am Mariia
 
 👩🏻‍💻 Embedded Software Engineer working on robotics   
-👩🏻‍🎓 Studied Computer Engineering at Oklahoma State University   
+👩🏻‍🎓 Computer Engineering Graduate at Oklahoma State University   
 💭 Currently learning how control robots using Internet of Things
 
 #### Tech StacK
